@@ -12,6 +12,16 @@ Cross-site scripting works by manipulating a vulnerable web site so that it retu
 
 ## Install our wordlist
 
+First option:
+
+```
+sudo mkdir /usr/share/wordlists/amoloht
+sudo mkdir /usr/share/wordlists/amoloht/XSS
+wget https://raw.githubusercontent.com/AmoloHT/XSS-Payload/main/xss-payloads-by-amoloht.txt -O /usr/share/wordlists/amoloht/XSS/xss-payloads-by-amoloht.txt
+```
+
+Second option:
+
 ```
 sudo mkdir /usr/share/wordlists/amoloht
 sudo git clone https://github.com/AmoloHT/XSS-Payload /usr/share/wordlists/amoloht/XSS
